@@ -87,13 +87,25 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=MhatheoHc-pm&theme=tokyonight&show_icons=true/460/300">
+
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhatheoHc-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MhatheoHc-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+
+<br>
+
+
+## 📱 <b>Check out my Social Media</b>
+
+<a>
+  
+</a>
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
 
 <p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
 
 <!--
 **MhatheoHc/MhatheoHc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
