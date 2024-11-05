@@ -14,7 +14,7 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/MhatheoHc)**
 
 <br>
 
@@ -87,11 +87,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=MhatheoHc-pm&theme=tokyonight&show_icons=true/460/300">
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=MhatheoHc&theme=tokyonight&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhatheoHc-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MhatheoHc&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MhatheoHc-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MhatheoHc&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 
